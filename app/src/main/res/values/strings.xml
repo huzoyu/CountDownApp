@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">倒计时</string>
+    <string name="bt_1">1分钟</string>
+    <string name="bt_2">10分钟</string>
+    <string name="bt_3">1小时</string>
+    <string name="bt_customized">自定义</string>
+    <string name="bt_pause">暂停</string>
+    <string name="bt_cancel">取消</string>
+</resources>
